@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1349
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,10 +120,14 @@ MonoBehaviour:
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 153
 =======
   controlID: 191409
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+  controlID: 169
+>>>>>>> parent of d397ef41 (Remaned terrain object)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,10 +148,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2026
 =======
     width: 2166
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    width: 2460
+>>>>>>> parent of d397ef41 (Remaned terrain object)
     height: 1299
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
@@ -174,12 +182,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 2026
     height: 1141
 =======
     width: 2166
     height: 1002
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    width: 2460
+    height: 1249
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
@@ -202,12 +215,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 260
     height: 1141
 =======
     width: 352
     height: 1002
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    width: 112
+    height: 1249
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -231,6 +249,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 260
     y: 0
     width: 1666
@@ -241,6 +260,12 @@ MonoBehaviour:
     width: 1623
     height: 1002
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 112
+    y: 0
+    width: 2248
+    height: 1249
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -265,6 +290,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1926
     y: 0
     width: 100
@@ -275,6 +301,12 @@ MonoBehaviour:
     width: 191
     height: 1002
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 2360
+    y: 0
+    width: 100
+    height: 1249
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_MinSize: {x: 135, y: 51}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
@@ -299,6 +331,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 1141
     width: 2026
     height: 158
@@ -307,6 +340,11 @@ MonoBehaviour:
     width: 2166
     height: 297
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    y: 1249
+    width: 2460
+    height: 50
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 17}
@@ -331,6 +369,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2026
     y: 0
     width: 534
@@ -339,6 +378,11 @@ MonoBehaviour:
     y: 0
     width: 394
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 2460
+    y: 0
+    width: 100
+>>>>>>> parent of d397ef41 (Remaned terrain object)
     height: 1299
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
@@ -472,12 +516,17 @@ MonoBehaviour:
     x: 0
     y: 73
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 259
     height: 1120
 =======
     width: 351
     height: 981
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    width: 111
+    height: 1228
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -492,8 +541,13 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_SelectedIDs: 2a810000
       m_LastClickedID: 33066
+=======
+      m_SelectedIDs: 5c750000
+      m_LastClickedID: 0
+>>>>>>> parent of d397ef41 (Remaned terrain object)
       m_ExpandedIDs: 08fbffff
 =======
       m_SelectedIDs: 0851e1ff
@@ -545,6 +599,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 260
     y: 73
     width: 1664
@@ -555,6 +610,12 @@ MonoBehaviour:
     width: 1621
     height: 981
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 112
+    y: 73
+    width: 2246
+    height: 1228
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -979,6 +1040,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 558.86615, y: -26.331676, z: 494.2605}
     speed: 2
     m_Value: {x: 558.86615, y: -26.331676, z: 494.2605}
@@ -987,6 +1049,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 546.5525, y: 17.572392, z: 535.1973}
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    m_Target: {x: 504.91895, y: 92.99237, z: 474.14703}
+    speed: 2
+    m_Value: {x: 504.91895, y: 92.99237, z: 474.14703}
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1033,6 +1100,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.16567917, y: -0.49586582, z: 0.08483477, w: -0.848725}
     speed: 2
     m_Value: {x: -0.16687949, y: -0.49552396, z: 0.08554251, w: -0.84810954}
@@ -1049,6 +1117,15 @@ MonoBehaviour:
 =======
     m_Value: 86.02272
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    m_Target: {x: 0.0055043427, y: 0.766152, z: -0.64324343, w: -0.008173872}
+    speed: 2
+    m_Value: {x: 0.00646646, y: 0.76583874, z: -0.64296186, w: -0.0070216586}
+  m_Size:
+    m_Target: 87.18453
+    speed: 2
+    m_Value: 91.2927
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1094,6 +1171,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1926
     y: 73
     width: 98
@@ -1104,6 +1182,12 @@ MonoBehaviour:
     width: 189
     height: 981
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 2360
+    y: 73
+    width: 98
+    height: 1228
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1137,6 +1221,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 1214
     width: 2025
     height: 137
@@ -1145,6 +1230,11 @@ MonoBehaviour:
     width: 2165
     height: 276
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    y: 1322
+    width: 2459
+    height: 29
+>>>>>>> parent of d397ef41 (Remaned terrain object)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1166,7 +1256,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3DForge/FantasyExteriors/Village & Towns/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1174,13 +1264,14 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/3DForge/FantasyExteriors/Village & Towns/Materials
+  - Assets
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\seyek\Desktop\team-git-workshop
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 60af0000
     m_LastClickedID: 44896
@@ -1190,6 +1281,11 @@ MonoBehaviour:
     m_LastClickedID: 39492
     m_ExpandedIDs: 00000000449a0000469a0000489a00004a9a00004c9a00004e9a0000509a0000529a0000549a0000569a0000589a00005a9a00005c9a00005e9a0000609a0000629a0000649a0000669a0000689a00006a9a00006c9a00006e9a0000709a0000729a0000749a0000769a0000789a00007a9a00007c9a00007e9a0000809a0000829a0000849a0000869a0000889a00008a9a00008c9a00008e9a0000909a0000929a0000949a0000969a0000989a00009a9a00009c9a00009e9a0000a09a0000a29a0000f29c0000fc9c0000fe9c0000009d00006a9d0000789d0000b49d0000bc9d0000be9d0000c49d0000cc9d0000da9d0000e29d0000e49d0000ea9d0000eecf0000f6cf000032d800002a870100428701004a8701004e87010052870100568701005e870100628701007e870100968701009a870100aa870100c287010036880100b6dd0100e8de0100fade0100fede010026df01002edf01003adf01007e9b02001ca8020024a8020038a80200d6800400da800400de80040000ca9a3bffffff7f
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    m_SelectedIDs: b4a90000
+    m_LastClickedID: 43444
+    m_ExpandedIDs: 00000000b4a90000b6a90000b8a90000baa90000bca90000bea90000c0a90000c2a90000c4a90000c6a90000c8a90000caa90000cca90000cea90000d0a90000d2a90000d4a90000d6a90000d8a90000daa90000dca90000dea90000e0a90000e2a90000e4a90000e6a90000e8a90000eaa90000eca90000eea90000f0a90000f2a90000f4a90000f6a90000f8a90000faa90000fca90000fea9000000aa000002aa000004aa000006aa000008aa00000aaa00000caa00000eaa000010aa000012aa000014aa000016aa000018aa00001aaa00001caa00001eaa000020aa000022aa000024aa000026aa000028aa00002aaa00002caa00002eaa000030aa000032aa000034aa000036aa000038aa00003aaa00003caa00003eaa000040aa000042aa000044aa000046aa000048aa000012ad00004cad00004ead000050ad000052ad000054ad000000ca9a3bffffff7f
+>>>>>>> parent of d397ef41 (Remaned terrain object)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1244,12 +1340,17 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
 <<<<<<< HEAD
     m_ExpandedInstanceIDs: c62300004e650000a8640000465f00009e5d0000aa7d0000ea860000507600009e9c000024c3000030c3000050c3000066dd0100f4e201000000000042dd0100d6a80000
 =======
     m_ExpandedInstanceIDs: c62300004e650000a8640000465f00009e5d0000aa7d0000ea860000507600009e9c000024c3000030c3000050c3000066dd0100f4e201000000000042dd0100
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c62300004e650000a8640000465f00009e5d0000aa7d0000ea860000507600009e9c000024c3000030c3000050c3000066dd0100f4e201000000000042dd0100
+>>>>>>> parent of d397ef41 (Remaned terrain object)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1273,7 +1374,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 3}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 309
@@ -1299,9 +1400,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 1036
-    width: 2459
-    height: 315
+    y: 1075
+    width: 2165
+    height: 276
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1334,6 +1435,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 2026
     y: 73
     width: 533
@@ -1342,6 +1444,11 @@ MonoBehaviour:
     y: 73
     width: 393
 >>>>>>> parent of b353c23d (Removed a tree asset from build)
+=======
+    x: 2460
+    y: 73
+    width: 99
+>>>>>>> parent of d397ef41 (Remaned terrain object)
     height: 1278
   m_SerializedDataModeController:
     m_DataMode: 0
