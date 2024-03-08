@@ -52019,7 +52019,7 @@ GameObject:
   - component: {fileID: 2082800415}
   - component: {fileID: 2082800414}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: Tutorial_Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
