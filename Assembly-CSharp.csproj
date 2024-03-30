@@ -82,6 +82,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\Script\FreeCam.cs" />
+    <Compile Include="Assets\Scripts\CharacterLook.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
@@ -94,7 +95,6 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\DreamForestTree\Script\ScrollUVWater.cs" />
-    <Compile Include="Assets\Scripts\PlayerTurnLeftRight.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
     <Compile Include="Assets\3DForge\GaiaIntegration\ThreeDForge_VillageExteriorsKit.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\FxaaComponent.cs" />
