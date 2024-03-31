@@ -5,9 +5,9 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(PlayerInput))]
 public class CharacterLook : MonoBehaviour
 {
-    [SerializeField] private float lookSensitivity = 10.0f;
+    [SerializeField] private float lookSensitivity = 5.0f;
     [SerializeField] private float minAngle = -80.0f;
-    [SerializeField] private float maxAngle = 45.0f;
+    [SerializeField] private float maxAngle = 50.0f;
 
     private Camera playerCamera;
     private float mouseY;
