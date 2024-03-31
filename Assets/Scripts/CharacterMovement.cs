@@ -12,15 +12,18 @@ using UnityEngine.InputSystem;
 public class CharacterMovement : MonoBehaviour
 {
     private CharacterController controller;
-    public float movementSpeed = 10.0f;
+    public float movementSpeed = 7.0f;
 
     private float forwardDirection;
     private float strafeDirection;
+
+    Animator animator;
 
     // Start is called before the first frame update
     void Start()
     {
         controller = GetComponent<CharacterController>();
+        animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -35,6 +38,31 @@ public class CharacterMovement : MonoBehaviour
     {
         Vector2 controls = value.Get<Vector2>();
         forwardDirection = controls.y;
+        if (controls != Vector2.zero)
+        {
+            animator.SetBool("isWalking", true);
+        }
+        else
+        {
+            animator.SetBool("isWalking", false);
+        }
+        
+    }
+    private void OnSprintStart()
+    {
+        movementSpeed = 12.0f;
+        animator.SetBool("isRunning", true);
+    }
+
+    private void OnSprintEnd()
+    {
+        movementSpeed = 7.0f;
+        animator.SetBool("isRunning", false);
+    }
+
+    private void OnAttack()
+    {
+        animator.SetTrigger("Attack");
     }
 }
 
