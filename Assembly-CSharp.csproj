@@ -123,6 +123,7 @@
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\EyeAdaptation.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\UI\CurveBackground.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
+    <None Include="Assets\InfinityPBR\__READ ME &amp; Support &amp; Instructions\READ ME.txt" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\EyeAdaptation.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\LutGen.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\EyeHistogram.compute" />
