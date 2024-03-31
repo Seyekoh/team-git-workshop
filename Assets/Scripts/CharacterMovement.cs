@@ -12,10 +12,9 @@ using UnityEngine.InputSystem;
 public class CharacterMovement : MonoBehaviour
 {
     private CharacterController controller;
-    public float movementSpeed = 7.0f;
 
+    public float movementSpeed = 7.0f;
     private float forwardDirection;
-    private float strafeDirection;
 
     Animator animator;
 
@@ -50,7 +49,7 @@ public class CharacterMovement : MonoBehaviour
     }
     private void OnSprintStart()
     {
-        movementSpeed = 12.0f;
+        movementSpeed = 14.0f;
         animator.SetBool("isRunning", true);
     }
 

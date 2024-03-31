@@ -7,7 +7,7 @@ public class CharacterLook : MonoBehaviour
 {
     [SerializeField] private float lookSensitivity = 5.0f;
     [SerializeField] private float minAngle = -80.0f;
-    [SerializeField] private float maxAngle = 50.0f;
+    [SerializeField] private float maxAngle = 75.0f;
 
     private Camera playerCamera;
     private float mouseY;

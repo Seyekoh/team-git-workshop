@@ -9,7 +9,7 @@ public class InventoryController : MonoBehaviour
 
     private GameObject hand;
 
-    private GameObject equippedWeapon;
+    public GameObject equippedWeapon;
     public Vector3 equippedPosition;
     public Vector3 equippedRotation;
     public Vector3 equippedScale;
@@ -19,7 +19,7 @@ public class InventoryController : MonoBehaviour
     private void Start()
     {
         items = new List<GameObject>();
-        hand = GameObject.Find("RIGHT_HAND_REST");
+        hand = GameObject.Find("RIGHT_HAND_COMBAT");
     }
 
     private void Update()
@@ -28,8 +28,8 @@ public class InventoryController : MonoBehaviour
         {
             if (equippedWeapon.name.Equals("Dagger"))
             {
-                equippedPosition = new Vector3((float)0.19, (float)0.08, (float)0.032);
-                equippedRotation = new Vector3((float)29.652, (float)125.541, (float)7.227);
+                equippedPosition = new Vector3((float)-0.0123, (float)-0.3687, (float)-0.0235);
+                equippedRotation = new Vector3((float)-79.739, (float)-122.536, (float)3.119);
                 equippedScale = new Vector3((float)0.45, (float)0.45, (float)0.45);
 
 
