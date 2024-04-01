@@ -76,6 +76,11 @@ public class FollowPath : MonoBehaviour
             path.setNextWaypoint(7);
         }
 
+        if (gameObject.name.Equals("Lead Guard") && path.currentWaypointIndex == 88)
+        {
+            path.setNextWaypoint(15);
+        }
+
         if (transform.position == nextWaypoint)
         {
             nextWaypoint = GetNextWaypoint();
