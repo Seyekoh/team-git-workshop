@@ -16,7 +16,8 @@ public class FollowPath : MonoBehaviour
 
     public float speed;
 
-    Vector3 nextWaypoint;
+    [SerializeField] Vector3 nextWaypoint;
+    [SerializeField] int currentWaypoint;
 
     // Start is called before the first frame update
     void Start()
@@ -35,6 +36,8 @@ public class FollowPath : MonoBehaviour
     void Update()
     {
         handlePath();
+
+        currentWaypoint = path.currentWaypointIndex;
     }
 
     private void FaceTowards(Vector3 nextWaypoint)
@@ -53,9 +56,24 @@ public class FollowPath : MonoBehaviour
             Destroy(gameObject);
         }
 
-        if (gameObject.name.Equals("Guard (1)") && path.currentWaypointIndex == 35)
+        if (gameObject.name.Equals("Guard (1)") && path.currentWaypointIndex == 38)
         {
-            path.setNextWaypoint(15);
+            path.setNextWaypoint(19);
+        }
+
+        if (gameObject.name.Equals("Guard (2)") && path.currentWaypointIndex == 34)
+        {
+            path.setNextWaypoint(21);
+        }
+
+        if (gameObject.name.Equals("Guard (3)") && path.currentWaypointIndex == 39)
+        {
+            path.setNextWaypoint(12);
+        }
+
+        if (gameObject.name.Equals("Guard (4)") && path.currentWaypointIndex == 37)
+        {
+            path.setNextWaypoint(7);
         }
 
         if (transform.position == nextWaypoint)
