@@ -120,6 +120,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\LPHorse_Version_2_9\Version_2_31\READ_ME.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
@@ -177,6 +178,7 @@
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Common.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\Monitors\VectorscopeRender.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Bloom.shader" />
+    <None Include="Assets\LPHorse_Version_2_9\Version_2_31\Saddle\Saddle_Information.txt" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Uber.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
