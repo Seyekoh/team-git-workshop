@@ -79,7 +79,6 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\Scripts\InventoryController.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\InteractableObject.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\Scripts\Interact.cs" />
@@ -105,7 +104,6 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\DreamForestTree\Script\ScrollUVWater.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
-    <Compile Include="Assets\3DForge\GaiaIntegration\ThreeDForge_VillageExteriorsKit.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingModel.cs" />
