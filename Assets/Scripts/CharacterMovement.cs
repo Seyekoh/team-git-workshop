@@ -47,6 +47,12 @@ public class CharacterMovement : MonoBehaviour
         }
         
     }
+
+    private void OnJump(InputValue value)
+    {
+        
+    }
+
     private void OnSprintStart()
     {
         movementSpeed = 14.0f;
